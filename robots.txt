@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pilucotblog.pages.dev/sitemap.xml
